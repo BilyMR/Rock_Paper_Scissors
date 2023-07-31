@@ -4,5 +4,7 @@ The Odin Project's RPS task
 
 Languages used
 - HTML
+  
 -CSS
+
 -JAVASCRIPT
