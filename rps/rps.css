@@ -1,0 +1,48 @@
+body {
+  font-family: Poppins, arial;
+  background-color: #494D5F;
+  color: white;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn {
+  font-family: Poppins, arial;
+  font-size: 20px;
+  padding: 13px 23px;
+  border-radius: 25px;
+  border: none;
+  background-color: #34568B;
+  color: white;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: #80acf5;
+  color: rgb(75, 74, 74);
+  transition-duration: 0.2s;
+}
+
+.buttons {
+  padding-top: 15px;
+  padding-bottom: 30px;
+}
+
+#reset {
+  margin-top: 10px;
+}
+
+#winner,
+#gameWinner {
+  padding: 8px;
+}
+
+.score {
+  font-family: Poppins, arial;
+  font-size: 30px;
+}
