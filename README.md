@@ -6,6 +6,6 @@ Languages used
 
 - HTML
   
--CSS
+- CSS
 
--JAVASCRIPT
+- JAVASCRIPT
